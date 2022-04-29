@@ -1,0 +1,5 @@
+Circulo(200, 200, 150, relleno=gradiente('rojo', 'rojoOscuro', inicio='izquierda'))
+Circulo(200, 200, 120, relleno=gradiente('blanco', 'grisOscuro', inicio='izquierda'))
+Circulo(200, 200, 90, relleno=gradiente('rojo', 'rojoOscuro', inicio='izquierda'))
+Circulo(200, 200, 60, relleno=gradiente('azul', 'azulOscuro', inicio='izquierda'))
+Estrella(200, 200, 60, 5, relleno=gradiente('blanco', 'grisOscuro', inicio='izquierda'))
